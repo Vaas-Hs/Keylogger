@@ -1,5 +1,6 @@
 # Python 3.7
 # Vinícius Augusto
+
 from pynput.keyboard import Key, Listener
 import logging
 
